@@ -1,1 +1,3 @@
 # PerfmgrSupp
+
+模块仅挂载perfmgr，刷入后用scene导入json至teg_config或default_cloud重启即可使用
