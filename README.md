@@ -1,3 +1,5 @@
 # PerfmgrSupp
 
-模块仅挂载perfmgr，刷入后用scene导入json至teg_config或default_cloud重启即可使用
+## 说明
+模块仅挂载perfmgr，配置文件需用scene等工具导入joyose才能使用  
+小米15开始应该已经内置perfmgr了，不再需要模块挂载  
